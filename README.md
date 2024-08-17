@@ -7,5 +7,3 @@ I am interested in creating teams of robots that can adapt their agency with env
 operating near their sensing, compute, and physical limits.
 
 I program robots using C, C++, CUDA C, and Python.
-
-I am currently trying to learn Mathematica.
